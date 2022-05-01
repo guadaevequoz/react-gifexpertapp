@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guadaevequoz/react-gifexpertapp/static/css/main.f657e6ff.css",
+    "main.js": "/guadaevequoz/react-gifexpertapp/static/js/main.b4fafd27.js",
+    "index.html": "/guadaevequoz/react-gifexpertapp/index.html",
+    "main.f657e6ff.css.map": "/guadaevequoz/react-gifexpertapp/static/css/main.f657e6ff.css.map",
+    "main.b4fafd27.js.map": "/guadaevequoz/react-gifexpertapp/static/js/main.b4fafd27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f657e6ff.css",
+    "static/js/main.b4fafd27.js"
+  ]
+}
